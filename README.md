@@ -1,4 +1,8 @@
-### Hi there 👋
+![](https://img.shields.io/badge/I%20am%20-sleepy-abe827)
+
+### Who am I?
+
+- I’m currently working as an apprentice sire reliability engineer in Japan.
 
 <!--
 **abetar0/abetar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
