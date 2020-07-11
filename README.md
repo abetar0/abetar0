@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-- I’m currently working as an apprentice sire reliability engineer in Japan.
+- I’m currently working as an apprentice site reliability engineer in Japan.
 
 <!--
 **abetar0/abetar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
