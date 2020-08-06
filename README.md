@@ -4,6 +4,7 @@
 
 - I am junior toil engineer currently working in Japan.
 
+Profile image: By Denelson83 - Own work, CC BY-SA 3.0, http://w.wiki/WeC
 <!--
 **abetar0/abetar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
