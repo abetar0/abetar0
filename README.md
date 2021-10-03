@@ -2,7 +2,7 @@
 
 ### Me
 
-- A junior toil engineer currently working in Japan.
+- A
 
 <a>Profile image: </a><a href="https://commons.wikimedia.org/wiki/File:SMPTE_Color_Bars.svg" title="via Wikimedia Commons">Denelson83</a> / <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA</a>
 <!--
